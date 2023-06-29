@@ -22,4 +22,6 @@ SCREENSHORT:
 ![Screenshot_4](https://github.com/alpha7008/crashos/assets/138114447/a82be16a-6c08-4332-b62f-541e2aacefbb)
 ![Screenshot_1](https://github.com/alpha7008/crashos/assets/138114447/f7af088c-4d4f-4ac9-aefa-fff0a5c7c177)
 
-STAY WITH US OUR CRASH-OS IS COMING SOON SO . STAY WITH US FOR MORE UP DATE.
+STAY WITH US OUR CRASH-OS IS COMING SOON SO .
+
+STAY WITH US FOR MORE UP DATE.
