@@ -14,10 +14,10 @@ Crash-OS is an after-market firmware based on android open source project, inspi
 
 5:Open Source ;;;;;Source code of the ROM is available on our GitHub.so you can also customized it for your device.
 
-#DOWNLOAD:
+# DOWNLOAD:
+          
          OUR gsi will be available soon .so you have not to wait toooooooooo longer.
-         stay tune with us 
-....................................................................................................................................................................................................................
+         stay tune with us .........................................................................................................................................................
 
 # SCREENSHORT:
 ![Screenshot_2023-06-29-17-38-02-26](https://github.com/alpha7008/crashos/assets/138114447/9aca2c8c-1d21-4668-a137-e81372cc8287)
