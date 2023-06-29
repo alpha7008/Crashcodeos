@@ -2,7 +2,7 @@
 # crashos
 Crash-OS is an after-market firmware based on android open source project, inspired by Motorola myui with a refined interface .we offer a smooth and stable gaming experiene for your old device with a selected set of amazing features that provide an exceptional user experience.it was an GSI [Generic System Images] so you can tryout it.
 
-Features:
+# Features:
 
 1:Up-to-date ;;;;;;;;;Frequent updates with the latest monthly Security Patch and end to end security.
 
@@ -15,7 +15,8 @@ Features:
 5:Open Source ;;;;;Source code of the ROM is available on our GitHub.so you can also customized it for your device.
 
 
-SCREENSHORT:
+# SCREENSHORT:
+
 ![1679318028371](https://github.com/alpha7008/crashos/assets/138114447/d02ae817-60ca-4d48-b14d-be2ef532cab1)
 ![Screenshot_6](https://github.com/alpha7008/crashos/assets/138114447/f9fa69a8-e421-4a1c-9689-7258c3df6013)
 ![Ps4PTjk](https://github.com/alpha7008/crashos/assets/138114447/bfde0c41-834b-4820-982b-edb32482018e)
