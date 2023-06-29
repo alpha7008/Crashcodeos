@@ -3,11 +3,17 @@
 Crash-OS is an after-market firmware based on android open source project, inspired by Motorola myui with a refined interface .we offer a smooth and stable gaming experiene for your old device with a selected set of amazing features that provide an exceptional user experience.it was an GSI [Generic System Images] so you can tryout it.
 
 Features:
+
 1:Up-to-date ;;;;;;;;;Frequent updates with the latest monthly Security Patch and end to end security.
+
 2:Customizations ;;;;;;;;A wide range of useful features & settings to customize your device interface and perfomance as requirement.
+
 3:Stability ;;;;;;;;Fluid and stable with optimal battery life and performance .
+
 4:Material Design UI ;;;;;;Clean and refined UI inspired by myui with a cool wallpaper.
+
 5:Open Source ;;;;;Source code of the ROM is available on our GitHub.so you can also customized it for your device.
+
 
 SCREENSHORT:
 ![1679318028371](https://github.com/alpha7008/crashos/assets/138114447/d02ae817-60ca-4d48-b14d-be2ef532cab1)
