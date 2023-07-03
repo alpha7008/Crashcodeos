@@ -1,6 +1,6 @@
 
-# RAGE OS
-Rage-OS is an after-market firmware based on android9 {COLOROS 6}.IT's an open source project, inspired by Motorola myui with a refined interface .we offer a smooth and stable gaming experiene for your old device with a selected set of amazing features that provide an exceptional user experience.it was an GSI [Generic System Images] so you can tryout it.
+# RAGEGO
+RAGEGO is an after-market firmware based on android9 {COLOROS 6}.IT's an open source project, inspired by Motorola myui with a refined interface .we offer a smooth and stable gaming experiene for your old device with a selected set of amazing features that provide an exceptional user experience.it was an GSI [Generic System Images] so you can tryout it.
 
 # Features:
 
@@ -25,6 +25,6 @@ OUR gsi will be available soon .so you have not to wait toooooooooo longer.stay 
 ![Screenshot_2023-06-29-17-45-31-49](https://github.com/alpha7008/crashos/assets/138114447/25704cc6-8481-47e1-96c9-004c36d04230)
 ![Screenshot_2023-06-29-17-38-55-92_b783bf344239542886fee7b48fa4b892](https://github.com/alpha7008/crashos/assets/138114447/6f626834-e42a-4f84-8087-0f34a980766e)
 
-STAY WITH US OUR CRASH-OS IS COMING SOON SO .
+STAY WITH US RAGEFO IS COMING SOON SO .
 
 STAY WITH US FOR MORE UP DATE.
